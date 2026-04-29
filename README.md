@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=I%20Nyoman%20Darmayoga&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=breaking%20things%20by%20day%2C%20building%20things%20by%20night&descSize=16&descAlignY=55&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=160&section=header&text=I%20Nyoman%20Darmayoga&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=breaking%20things%20by%20day%2C%20building%20things%20by%20night&descSize=16&descAlignY=65&descColor=8b949e"/>
 
-[![Penetration Tester](https://img.shields.io/badge/Penetration%20Tester-f85149?style=flat-square&logoColor=white)](#)
-[![SOC](https://img.shields.io/badge/SOC%20Analyst-e3b341?style=flat-square&logoColor=black)](#)
-[![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-58a6ff?style=flat-square&logoColor=white)](#)
+<img src="./header.svg" width="800"/>
 
 </div>
 
@@ -12,7 +10,7 @@
 
 ## 👤 About Me
 
-> Offensive security practitioner & fullstack developer. I break into systems professionally and build secure web applications - two sides of the same coin. Passionate about security-first development and ethical hacking.
+> Offensive security practitioner & fullstack developer. I break into systems professionally and build secure web applications — two sides of the same coin. Passionate about security-first development and ethical hacking.
 
 ---
 
