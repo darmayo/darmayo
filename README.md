@@ -24,14 +24,14 @@
 
 ## 🛠 What I Do
 
-| ⚔ Security | ⚡ Development |
+| ⚔ Security 
 |---|---|
-| Web penetration testing | Fullstack web applications |
-| Mobile penetration testing | REST API design & development |
-| Network penetration testing | Security-first architecture |
-| SOC operations | Database design |
-| Bug bounty & vulnerability research | |
-| Security reporting | |
+| Web penetration testing 
+| Mobile penetration testing
+| Network penetration testing
+| SOC operations 
+| Bug bounty & vulnerability research 
+| Security reporting 
 
 ---
 
@@ -72,5 +72,4 @@
 ---
 
 <div align="center">
-<sub>🟢 Available for opportunities</sub>
 </div>
