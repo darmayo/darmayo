@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 
-> Offensive security practitioner & fullstack developer. I break into systems professionally and build secure web applications — two sides of the same coin. Passionate about security-first development and ethical hacking.
+> Offensive security practitioner & fullstack developer. I break into systems professionally and build secure web applications - two sides of the same coin. Passionate about security-first development and ethical hacking.
 
 ---
 
