@@ -1,0 +1,83 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .name {
+        font-family: 'Courier New', monospace;
+        font-size: 28px;
+        font-weight: 600;
+        fill: #ffffff;
+        animation: fadeSlideIn 1s ease forwards;
+        opacity: 0;
+      }
+      .subtitle {
+        font-family: 'Courier New', monospace;
+        font-size: 13px;
+        fill: #8b949e;
+        animation: fadeSlideIn 1s ease 0.5s forwards;
+        opacity: 0;
+      }
+      .badge-text {
+        font-family: 'Courier New', monospace;
+        font-size: 11px;
+        font-weight: 600;
+      }
+      .scroll-group {
+        animation: scrollLeft 14s linear infinite;
+      }
+      @keyframes fadeSlideIn {
+        from { opacity: 0; transform: translateY(-8px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes scrollLeft {
+        0%   { transform: translateX(0); }
+        100% { transform: translateX(-50%); }
+      }
+    </style>
+    <clipPath id="clip">
+      <rect x="0" y="70" width="800" height="40"/>
+    </clipPath>
+  </defs>
+
+  <rect width="800" height="120" fill="#0d1117"/>
+
+  <!-- Name -->
+  <text x="400" y="32" text-anchor="middle" class="name">Hi, I&#39;m Darma 👋</text>
+
+  <!-- Subtitle -->
+  <text x="400" y="56" text-anchor="middle" class="subtitle">always learning · always building</text>
+
+  <!-- Scrolling badges -->
+  <g clip-path="url(#clip)">
+    <g class="scroll-group">
+      <!-- Set 1 -->
+      <rect x="20"  y="78" width="148" height="24" rx="4" fill="#f85149"/>
+      <text x="94"  y="95" text-anchor="middle" class="badge-text" fill="white">Penetration Tester</text>
+
+      <rect x="186" y="78" width="108" height="24" rx="4" fill="#e3b341"/>
+      <text x="240" y="95" text-anchor="middle" class="badge-text" fill="black">SOC Analyst</text>
+
+      <rect x="312" y="78" width="98"  height="24" rx="4" fill="#58a6ff"/>
+      <text x="361" y="95" text-anchor="middle" class="badge-text" fill="white">Bug Hunter</text>
+
+      <!-- Set 2 -->
+      <rect x="440" y="78" width="148" height="24" rx="4" fill="#f85149"/>
+      <text x="514" y="95" text-anchor="middle" class="badge-text" fill="white">Penetration Tester</text>
+
+      <rect x="606" y="78" width="108" height="24" rx="4" fill="#e3b341"/>
+      <text x="660" y="95" text-anchor="middle" class="badge-text" fill="black">SOC Analyst</text>
+
+      <rect x="732" y="78" width="98"  height="24" rx="4" fill="#58a6ff"/>
+      <text x="781" y="95" text-anchor="middle" class="badge-text" fill="white">Bug Hunter</text>
+
+      <!-- Set 3 (loop seamless) -->
+      <rect x="860" y="78" width="148" height="24" rx="4" fill="#f85149"/>
+      <text x="934" y="95" text-anchor="middle" class="badge-text" fill="white">Penetration Tester</text>
+
+      <rect x="1026" y="78" width="108" height="24" rx="4" fill="#e3b341"/>
+      <text x="1080" y="95" text-anchor="middle" class="badge-text" fill="black">SOC Analyst</text>
+
+      <rect x="1152" y="78" width="98"  height="24" rx="4" fill="#58a6ff"/>
+      <text x="1201" y="95" text-anchor="middle" class="badge-text" fill="white">Bug Hunter</text>
+    </g>
+  </g>
+</svg>
