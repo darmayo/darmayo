@@ -64,6 +64,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inyomandarmayoga)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darmayo)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darmayo)
 ![Profile Views](https://komarev.com/ghpvc/?username=darmayo&style=for-the-badge&color=58a6ff)
 
 </div>
