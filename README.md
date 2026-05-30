@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28428760/README.md)
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/darmayo/darmayo/main/header.svg" width="900" alt="Darma Header"/>
