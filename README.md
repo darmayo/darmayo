@@ -25,19 +25,44 @@
 
 ## 👤 About Me
 
-I’m a cyber security learner focused on understanding how systems are attacked, how threats are detected, and how secure applications are built.
+> I’m focused on learning how systems are attacked, how threats are detected, and how secure applications are built.
 
-I spend most of my time learning through hands-on labs, vulnerable applications, SOC monitoring practice, web security testing, mobile security testing, and security documentation.
+I learn through hands-on labs, vulnerable applications, SOC monitoring practice, web security testing, mobile security testing, and security documentation.
 
 <div align="center">
 
-| Current Focus | Learning Area |
-|---|---|
-| 🛡️ SOC Monitoring | Alert investigation, SIEM, Wazuh, Sysmon, log analysis |
-| 🌐 Web Security | OWASP Top 10, Burp Suite, recon, vulnerability testing |
-| 📱 Mobile Security | Android testing, APK analysis, JADX, Apktool, Frida |
-| 🕸️ Networking | TCP/IP, DNS, HTTP, Nmap, Wireshark |
-| 📝 Reporting | Vulnerability assessment, documentation, security notes |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🛡️ SOC Monitoring</b><br>
+      <sub>Alert investigation · SIEM · Wazuh · Sysmon · Log analysis</sub>
+    </td>
+    <td align="center" width="50%">
+      <b>🌐 Web Security</b><br>
+      <sub>OWASP Top 10 · Burp Suite · Recon · Vulnerability testing</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>📱 Mobile Security</b><br>
+      <sub>Android testing · APK analysis · JADX · Apktool · Frida</sub>
+    </td>
+    <td align="center" width="50%">
+      <b>🕸️ Networking</b><br>
+      <sub>TCP/IP · DNS · HTTP · Nmap · Wireshark</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>🐞 Vulnerability Research</b><br>
+      <sub>Bug bounty · CVE study · PoC analysis · Security testing</sub>
+    </td>
+    <td align="center" width="50%">
+      <b>📝 Security Reporting</b><br>
+      <sub>Findings · Impact · Evidence · Remediation notes</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -47,14 +72,36 @@ I spend most of my time learning through hands-on labs, vulnerable applications,
 
 <div align="center">
 
-| Area | Description |
-|---|---|
-| 🌐 **Web Pentesting** | Testing web applications for common vulnerabilities and misconfigurations |
-| 📱 **Mobile Pentesting** | Analyzing Android apps, APK files, mobile APIs, and runtime behavior |
-| 🛡️ **SOC Operations** | Monitoring alerts, reviewing logs, and learning incident handling workflows |
-| 🕸️ **Network Security** | Practicing network scanning, traffic analysis, and basic infrastructure testing |
-| 🐞 **Bug Bounty** | Learning recon, methodology, vulnerability validation, and responsible reporting |
-| 📄 **Security Reporting** | Writing clear findings, impact explanations, and remediation notes |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Web Pentesting</b><br>
+      <sub>Testing web apps for common vulnerabilities and misconfigurations.</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Mobile Pentesting</b><br>
+      <sub>Analyzing Android apps, APK files, APIs, and runtime behavior.</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>SOC Operations</b><br>
+      <sub>Monitoring alerts, reviewing logs, and learning incident response.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <b>Network Security</b><br>
+      <sub>Practicing scanning, traffic analysis, and infrastructure basics.</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Bug Bounty</b><br>
+      <sub>Learning recon, validation, methodology, and responsible reporting.</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Documentation</b><br>
+      <sub>Writing reports, checklists, notes, and structured security resources.</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
