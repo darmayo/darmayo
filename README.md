@@ -21,16 +21,18 @@
 
 ## 👤 About Me
 
-> I learn how systems are attacked, how they are detected, and how secure applications are built.
+I'm a cyber security enthusiast who enjoys learning how systems work, how vulnerabilities happen, and how security teams detect and respond to threats.
 
-Currently focused on:
+My main interests are **SOC operations**, **web application security**, **mobile application security**, and **security research**. I like learning through hands-on labs, vulnerable applications, CTF-style practice, and personal security projects.
 
 ```text
-SOC operations
-Web application penetration testing
-Android application security testing
-Linux, networking, and troubleshooting
-Vulnerability assessment and security reporting
+Current Focus
+├── SOC monitoring and alert investigation
+├── Web application penetration testing
+├── Android application security testing
+├── Linux, networking, and troubleshooting
+├── Vulnerability assessment and reporting
+└── Security documentation and research notes
 ```
 
 ---
@@ -45,25 +47,6 @@ Vulnerability assessment and security reporting
 | SOC operations |
 | Bug bounty & vulnerability research |
 | Security reporting |
-
----
-
-## 🧰 Tools
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Frida](https://img.shields.io/badge/Frida-0d1117?style=for-the-badge)
-![JADX](https://img.shields.io/badge/JADX-0d1117?style=for-the-badge)
-![Apktool](https://img.shields.io/badge/Apktool-0d1117?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-
-</div>
 
 ---
 
