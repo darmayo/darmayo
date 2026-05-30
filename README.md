@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/28428760/README.md)
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/darmayo/darmayo/main/header.svg" width="900" alt="Darma Header"/>
@@ -52,20 +53,11 @@ Current Focus
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Monitoring Dashboard
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=darmayo&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darmayo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darmayo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
-
-<br><br>
-
-<img width="98%" src="https://streak-stats.demolab.com?user=darmayo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=F85149&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://raw.githubusercontent.com/darmayo/darmayo/main/github-metrics.svg" width="900" alt="GitHub Metrics Dashboard"/>
 
 </div>
 
