@@ -25,30 +25,38 @@
 
 ## 👤 About Me
 
-> I learn how systems are attacked, how they are detected, and how secure applications are built.
+I’m a cyber security learner focused on understanding how systems are attacked, how threats are detected, and how secure applications are built.
 
-```text
-Current Focus
-├── SOC monitoring and alert investigation
-├── Web application penetration testing
-├── Android application security testing
-├── Linux, networking, and troubleshooting
-├── Vulnerability assessment and reporting
-└── Security documentation and research notes
-```
+I spend most of my time learning through hands-on labs, vulnerable applications, SOC monitoring practice, web security testing, mobile security testing, and security documentation.
+
+<div align="center">
+
+| Current Focus | Learning Area |
+|---|---|
+| 🛡️ SOC Monitoring | Alert investigation, SIEM, Wazuh, Sysmon, log analysis |
+| 🌐 Web Security | OWASP Top 10, Burp Suite, recon, vulnerability testing |
+| 📱 Mobile Security | Android testing, APK analysis, JADX, Apktool, Frida |
+| 🕸️ Networking | TCP/IP, DNS, HTTP, Nmap, Wireshark |
+| 📝 Reporting | Vulnerability assessment, documentation, security notes |
+
+</div>
 
 ---
 
 ## 🛠 What I Do
 
-| Security |
-|---|
-| Web penetration testing |
-| Mobile penetration testing |
-| Network security basics |
-| SOC operations |
-| Bug bounty & vulnerability research |
-| Security reporting |
+<div align="center">
+
+| Area | Description |
+|---|---|
+| 🌐 **Web Pentesting** | Testing web applications for common vulnerabilities and misconfigurations |
+| 📱 **Mobile Pentesting** | Analyzing Android apps, APK files, mobile APIs, and runtime behavior |
+| 🛡️ **SOC Operations** | Monitoring alerts, reviewing logs, and learning incident handling workflows |
+| 🕸️ **Network Security** | Practicing network scanning, traffic analysis, and basic infrastructure testing |
+| 🐞 **Bug Bounty** | Learning recon, methodology, vulnerability validation, and responsible reporting |
+| 📄 **Security Reporting** | Writing clear findings, impact explanations, and remediation notes |
+
+</div>
 
 ---
 
