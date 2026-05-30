@@ -72,11 +72,11 @@ Current Focus
 
 <br>
 
-<p>
-  <b>always learning · always building · always improving</b>
+<p align="center">
+  <strong>always learning · always building · always improving</strong>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=75&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=70&section=footer" alt="Footer"/>
 
 </div>
 
