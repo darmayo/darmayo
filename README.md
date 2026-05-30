@@ -1,109 +1,80 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██████╗ ███╗   ███╗ █████╗
-██╔══██╗██╔══██╗██╔══██╗████╗ ████║██╔══██╗
-██║  ██║███████║██████╔╝██╔████╔██║███████║
-██║  ██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
-██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=170&section=header&text=I%20Nyoman%20Darmayoga&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Cyber%20Security%20%7C%20SOC%20%7C%20Web%20%26%20Mobile%20Security&descSize=16&descAlignY=62&descColor=c9d1d9" alt="Header"/>
 
-`SOC Enthusiast` &nbsp;·&nbsp; `Web Security` &nbsp;·&nbsp; `Mobile Security`
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-inyomandarmayoga-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/inyomandarmayoga)
-[![GitHub](https://img.shields.io/badge/GitHub-darmayo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/darmayo)
+### Hi, I'm Darma 👋
+
+**Fresh Graduate in Informatics — Cyber Security Enthusiast**
+
+I focus on **SOC operations, web application security, and mobile security**.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-I%20Nyoman%20Darmayoga-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/inyomandarmayoga)
 [![Medium](https://img.shields.io/badge/Medium-@darmayo-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@darmayo)
-![Profile Views](https://komarev.com/ghpvc/?username=darmayo&style=flat-square&color=1f6feb&label=views)
+[![GitHub](https://img.shields.io/badge/GitHub-darmayo-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/darmayo)
+![Profile Views](https://komarev.com/ghpvc/?username=darmayo&style=flat-square&color=58a6ff&label=views)
 
 </div>
 
 ---
 
-## $ whoami
+## About Me
 
-Fresh graduate in Informatics from Bali, building my way into the security field — one lab at a time.
-I run a home lab with **Wazuh, n8n, and Docker**, and document everything so future-me doesn't forget it.
-Currently deep in **Android APK reverse engineering** and making SIEM alerts actually actionable.
-I learn by building, breaking things, and writing about it.
+I'm interested in how attacks happen, how they are detected, and how secure systems are built.  
+I learn by building labs, testing vulnerable applications, documenting workflows, and creating security-focused repositories.
+
+Currently, I am improving my skills in:
+
+- SOC monitoring and alert investigation
+- Web application penetration testing
+- Android application security testing
+- Linux, networking, and troubleshooting
+- Vulnerability assessment and security reporting
 
 ---
 
 ## Focus Areas
 
-| | Area | What I Actually Do |
-|---|---|---|
-| 🛡️ | **SOC Operations** | Wazuh, Sysmon, custom detection rules, alert triage, Windows Event Log analysis |
-| 🌐 | **Web Security** | OWASP Top 10, recon methodology, Burp Suite, vulnerability reporting |
-| 📱 | **Mobile Security** | Android APK analysis with JADX, Apktool, Frida hooks, adb, mobile API testing |
-| 🕸️ | **Network Security** | TCP/IP, DNS, HTTP internals, Nmap, Wireshark packet analysis |
-| 🐞 | **Bug Bounty / VAPT** | Checklist-based testing, structured recon, finding-to-report workflow |
-| 🧪 | **Security Research** | CVE/PoC study, malware analysis basics, threat intelligence notes |
-
----
-
-## Featured Projects
-
-### 🔵 SOC Monitoring Lab
-Home lab with Wazuh + Sysmon on a Windows endpoint. Built custom detection rules targeting lateral movement patterns and documented a full triage workflow — from raw log to incident ticket.
-
-`Wazuh` `Sysmon` `Windows Event Logs` `Detection Engineering`
-
----
-
-### 🔵 Security Monitoring Platform
-Full-stack security platform integrating Wazuh alerts, n8n SOAR automation, PostgreSQL storage, and a dashboard for real-time reporting. Containerized with Docker Compose.
-
-`n8n` `PostgreSQL` `Redis` `Docker` `Vue.js` `Node.js`
-
----
-
-### 🔵 Android Security Lab
-Hands-on Android reverse engineering practice: decompiling APKs with JADX, patching with Apktool, hooking runtime behavior with Frida. All findings and methodology are documented.
-
-`JADX` `Frida` `Apktool` `adb` `Android Emulator`
-
----
-
-### 🔵 Pentest Toolkit
-Curated and categorized security toolset covering Web, Android, Cloud, OSINT, DFIR, AI Security, and Learning Resources — organized for fast lab setup and methodology reference.
-
-`OSINT` `DFIR` `Cloud Security` `AI Security`
-
----
-
-## Tools & Stack
-
-```
-Security        Wazuh · Burp Suite · Nmap · Wireshark · Metasploit
-                Frida · JADX · Apktool · Ghidra
-
-Infrastructure  Docker · n8n · PostgreSQL · Redis
-
-Development     Node.js · Vue.js · Python
+```text
+SOC / Blue Team        Wazuh, SIEM, Sysmon, log analysis, incident handling
+Web Security           OWASP Top 10, Burp Suite, recon, reporting
+Mobile Security        JADX, Apktool, Frida, adb, Android reverse engineering
+Networking             TCP/IP, DNS, HTTP, Nmap, Wireshark
+Security Research      CVE study, PoC analysis, malware analysis basics
 ```
 
 ---
 
-## Currently Learning
+## Tools I Use
 
-```
-SOC Analyst Workflow
-  [✓] SIEM / Wazuh setup
-  [✓] Windows Event Logs
-  [→] Sysmon detection rules        ← in progress
-  [ ] Incident handling workflow
+<div align="center">
 
-Offensive Security
-  [✓] Web app pentesting basics
-  [→] Android APK analysis          ← active
-  [ ] Security report writing
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Frida](https://img.shields.io/badge/Frida-0d1117?style=for-the-badge)
+![JADX](https://img.shields.io/badge/JADX-0d1117?style=for-the-badge)
+![Apktool](https://img.shields.io/badge/Apktool-0d1117?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
-Research
-  [→] Malware analysis fundamentals ← active
-  [ ] Reverse engineering
-  [ ] Threat intelligence ops
-```
+</div>
+
+---
+
+## Projects
+
+| Project | Description |
+|---|---|
+| **SOC Monitoring Lab** | Lab for Windows endpoint monitoring, Sysmon logs, Wazuh alerts, and incident investigation workflow. |
+| **Security Monitoring Platform** | Security dashboard project using Wazuh, n8n, PostgreSQL, Redis, Docker, and reporting features. |
+| **Pentest Toolkit** | Curated cybersecurity tools grouped by Web, Android, Cloud, OSINT, AI Security, DFIR, and Learning Resources. |
+| **Android Security Lab** | Android reverse engineering and mobile testing practice with JADX, Apktool, Frida, adb, and emulator labs. |
 
 ---
 
@@ -111,9 +82,8 @@ Research
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=darmayo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github&hide=stars" alt="GitHub Stats"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darmayo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darmayo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darmayo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
@@ -121,6 +91,8 @@ Research
 
 <div align="center">
 
-`always learning` &nbsp;·&nbsp; `always building` &nbsp;·&nbsp; `always improving`
+**Always learning. Always building. Always improving.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" alt="Footer"/>
 
 </div>
