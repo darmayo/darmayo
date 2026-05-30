@@ -1,49 +1,54 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/darmayo/darmayo/main/header.svg" width="800" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=145&section=header&fontColor=ffffff"/>
+
+<img src="https://raw.githubusercontent.com/darmayo/darmayo/main/header.svg" width="800" alt="header"/>
 
 <br>
 
-**Cyber Security Enthusiast • SOC • Web Security • Mobile Security**
+**Cyber Security Enthusiast · SOC · Web Security · Mobile Security**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/inyomandarmayoga)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/darmayo)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@darmayo)
-![Profile Views](https://komarev.com/ghpvc/?username=darmayo&style=flat-square&color=58a6ff&label=views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inyomandarmayoga)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darmayo)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darmayo)
+![Profile Views](https://komarev.com/ghpvc/?username=darmayo&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About
+## 👤 About Me
 
-I learn how systems are attacked, how they are detected, and how secure applications are built.
+> I learn how systems are attacked, how they are detected, and how secure applications are built.
 
 Currently focused on:
 
-- SOC monitoring and alert investigation
-- Web application penetration testing
-- Android application security testing
-- Linux, networking, and troubleshooting
-- Vulnerability assessment and security reporting
-
----
-
-## Focus
-
 ```text
-SOC / Blue Team      Wazuh, SIEM, Sysmon, log analysis
-Web Security         OWASP Top 10, Burp Suite, recon
-Mobile Security      JADX, Apktool, Frida, adb
-Networking           TCP/IP, DNS, HTTP, Nmap, Wireshark
-Security Research    CVE study, PoC analysis, malware basics
+SOC operations
+Web application penetration testing
+Android application security testing
+Linux, networking, and troubleshooting
+Vulnerability assessment and security reporting
 ```
 
 ---
 
-## Tools
+## 🛠 What I Do
+
+| Security |
+|---|
+| Web penetration testing |
+| Mobile penetration testing |
+| Network security basics |
+| SOC operations |
+| Bug bounty & vulnerability research |
+| Security reporting |
+
+---
+
+## 🧰 Tools
 
 <div align="center">
 
@@ -62,19 +67,33 @@ Security Research    CVE study, PoC analysis, malware basics
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darmayo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darmayo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=darmayo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darmayo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=darmayo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
 
-**always learning · always building**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inyomandarmayoga)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darmayo)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darmayo)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=115&section=footer"/>
 
 </div>
