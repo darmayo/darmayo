@@ -70,10 +70,14 @@ Current Focus
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darmayo)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darmayo)
 
-</div>
+<br><br>
 
-<div align="center">
+```text
+always learning · always building · always improving
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" alt="Footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=85&section=footer" alt="Footer"/>
 
 </div>
