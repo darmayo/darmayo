@@ -79,13 +79,3 @@ Current Focus
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=70&section=footer" alt="Footer"/>
 
 </div>
-
-```text
-always learning · always building · always improving
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=85&section=footer" alt="Footer"/>
-
-</div>
