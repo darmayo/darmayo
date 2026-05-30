@@ -2,32 +2,27 @@
 
 <img src="https://raw.githubusercontent.com/darmayo/darmayo/main/header.svg" width="800" alt="Header"/>
 
-<br><br>
+<br>
 
-# I Nyoman Darmayoga
-
-**Fresh Graduate in Informatics — Cyber Security Enthusiast**
-
-Focused on **SOC operations, web application security, mobile security, Linux, networking, and security automation**.
+**Cyber Security Enthusiast • SOC • Web Security • Mobile Security**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inyomandarmayoga)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darmayo)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darmayo)
-![Profile Views](https://komarev.com/ghpvc/?username=darmayo&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/inyomandarmayoga)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/darmayo)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@darmayo)
+![Profile Views](https://komarev.com/ghpvc/?username=darmayo&style=flat-square&color=58a6ff&label=views)
 
 </div>
 
 ---
 
-## 👤 About Me
+## About
 
-I'm passionate about learning how systems are attacked, how they are defended, and how secure applications are built.
+I learn how systems are attacked, how they are detected, and how secure applications are built.
 
-I learn by building practical labs, testing vulnerable environments, documenting workflows, and organizing security resources into structured repositories.
+Currently focused on:
 
-### Current Focus
 - SOC monitoring and alert investigation
 - Web application penetration testing
 - Android application security testing
@@ -36,17 +31,19 @@ I learn by building practical labs, testing vulnerable environments, documenting
 
 ---
 
-## 🛠 Focus Areas
+## Focus
 
-- **SOC / Blue Team** — Wazuh, SIEM, Sysmon, log analysis, incident handling
-- **Web Security** — OWASP Top 10, Burp Suite, recon, reporting
-- **Mobile Security** — JADX, Apktool, Frida, adb, Android reverse engineering
-- **Networking** — TCP/IP, DNS, HTTP, Nmap, Wireshark
-- **Security Research** — CVE study, PoC analysis, malware analysis basics
+```text
+SOC / Blue Team      Wazuh, SIEM, Sysmon, log analysis
+Web Security         OWASP Top 10, Burp Suite, recon
+Mobile Security      JADX, Apktool, Frida, adb
+Networking           TCP/IP, DNS, HTTP, Nmap, Wireshark
+Security Research    CVE study, PoC analysis, malware basics
+```
 
 ---
 
-## 🧰 Tools I Use
+## Tools
 
 <div align="center">
 
@@ -65,18 +62,7 @@ I learn by building practical labs, testing vulnerable environments, documenting
 
 ---
 
-## 🚀 Projects
-
-| Project | Description |
-|---|---|
-| **SOC Monitoring Lab** | Lab for Windows endpoint monitoring, Sysmon logs, Wazuh alerts, and incident investigation workflow. |
-| **Security Monitoring Platform** | Security dashboard project using Wazuh, n8n, PostgreSQL, Redis, Docker, and reporting features. |
-| **Pentest Toolkit** | Curated cybersecurity tools grouped by Web, Android, Cloud, OSINT, AI Security, DFIR, and Learning Resources. |
-| **Android Security Lab** | Android reverse engineering and mobile testing practice with JADX, Apktool, Frida, adb, and emulator labs. |
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -89,6 +75,6 @@ I learn by building practical labs, testing vulnerable environments, documenting
 
 <div align="center">
 
-**Always learning. Always building. Always improving.**
+**always learning · always building**
 
 </div>
