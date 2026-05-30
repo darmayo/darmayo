@@ -1,1 +1,122 @@
+<svg width="900" height="190" viewBox="0 0 900 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
 
+    <linearGradient id="blue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="50%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#bc8cff"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .mono { font-family: "Courier New", monospace; }
+      .title {
+        font-size: 36px;
+        font-weight: 800;
+        fill: #ffffff;
+        animation: fadeUp 900ms ease forwards;
+        opacity: 0;
+      }
+      .subtitle {
+        font-size: 14px;
+        fill: #8b949e;
+        animation: fadeUp 900ms ease 350ms forwards;
+        opacity: 0;
+      }
+      .tag {
+        font-size: 12px;
+        font-weight: 700;
+      }
+      .scroll {
+        animation: scrollLeft 18s linear infinite;
+      }
+      .grid {
+        stroke: #1f2937;
+        stroke-width: 1;
+        opacity: .5;
+      }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(8px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes scrollLeft {
+        from { transform: translateX(0); }
+        to { transform: translateX(-470px); }
+      }
+    </style>
+
+    <clipPath id="clip">
+      <rect x="0" y="134" width="900" height="44"/>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="190" fill="url(#bg)"/>
+
+  <g opacity="0.4">
+    <path class="grid" d="M0 40 H900"/>
+    <path class="grid" d="M0 80 H900"/>
+    <path class="grid" d="M0 120 H900"/>
+    <path class="grid" d="M0 160 H900"/>
+    <path class="grid" d="M150 0 V190"/>
+    <path class="grid" d="M300 0 V190"/>
+    <path class="grid" d="M450 0 V190"/>
+    <path class="grid" d="M600 0 V190"/>
+    <path class="grid" d="M750 0 V190"/>
+  </g>
+
+  <circle cx="105" cy="56" r="120" fill="#1f6feb" opacity="0.11"/>
+  <circle cx="790" cy="135" r="150" fill="#58a6ff" opacity="0.08"/>
+
+  <path d="M0 120 C170 86, 290 146, 452 108 C618 68, 740 105, 900 76 L900 190 L0 190 Z" fill="#1f6feb" opacity="0.17"/>
+  <path d="M0 144 C210 110, 350 166, 540 124 C710 86, 775 128, 900 96 L900 190 L0 190 Z" fill="#58a6ff" opacity="0.09"/>
+
+  <text x="450" y="58" text-anchor="middle" class="mono title">Hi, I'm Darma 👋</text>
+  <text x="450" y="86" text-anchor="middle" class="mono subtitle">cyber security · soc · web security · mobile security</text>
+
+  <g filter="url(#glow)">
+    <rect x="300" y="105" width="300" height="3" rx="2" fill="url(#blue)" opacity="0.95"/>
+  </g>
+
+  <g clip-path="url(#clip)">
+    <g class="scroll">
+      <rect x="30" y="142" width="142" height="26" rx="6" fill="#f85149"/>
+      <text x="101" y="159" text-anchor="middle" class="mono tag" fill="#ffffff">Web Security</text>
+
+      <rect x="190" y="142" width="128" height="26" rx="6" fill="#e3b341"/>
+      <text x="254" y="159" text-anchor="middle" class="mono tag" fill="#000000">SOC Analyst</text>
+
+      <rect x="336" y="142" width="126" height="26" rx="6" fill="#58a6ff"/>
+      <text x="399" y="159" text-anchor="middle" class="mono tag" fill="#ffffff">Bug Hunter</text>
+
+      <rect x="480" y="142" width="148" height="26" rx="6" fill="#bc8cff"/>
+      <text x="554" y="159" text-anchor="middle" class="mono tag" fill="#ffffff">Mobile Security</text>
+
+      <rect x="646" y="142" width="132" height="26" rx="6" fill="#3fb950"/>
+      <text x="712" y="159" text-anchor="middle" class="mono tag" fill="#ffffff">Security Lab</text>
+
+      <rect x="796" y="142" width="142" height="26" rx="6" fill="#f85149"/>
+      <text x="867" y="159" text-anchor="middle" class="mono tag" fill="#ffffff">Web Security</text>
+
+      <rect x="956" y="142" width="128" height="26" rx="6" fill="#e3b341"/>
+      <text x="1020" y="159" text-anchor="middle" class="mono tag" fill="#000000">SOC Analyst</text>
+
+      <rect x="1102" y="142" width="126" height="26" rx="6" fill="#58a6ff"/>
+      <text x="1165" y="159" text-anchor="middle" class="mono tag" fill="#ffffff">Bug Hunter</text>
+
+      <rect x="1246" y="142" width="148" height="26" rx="6" fill="#bc8cff"/>
+      <text x="1320" y="159" text-anchor="middle" class="mono tag" fill="#ffffff">Mobile Security</text>
+    </g>
+  </g>
+</svg>
